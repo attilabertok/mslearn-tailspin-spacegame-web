@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bertokatti/SpaceGame/_apis/build/status/attilabertok.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/bertokatti/SpaceGame/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
